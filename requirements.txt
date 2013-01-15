@@ -1,2 +1,4 @@
+gevent==0.13.8
+greenlet==0.4.0
 simplejson==2.6.1
 wsgiref==0.1.2
